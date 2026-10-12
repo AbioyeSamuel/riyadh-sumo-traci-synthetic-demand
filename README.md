@@ -10,6 +10,8 @@ SUMO simulation of the Prince Mohammed Ibn Salman Ibn Abdulaziz Road corridor in
 
 ▶ **[Watch the full demo (87 s, MP4)](assets/demo.mp4)**
 
+https://github.com/user-attachments/assets/9babc4bf-b1d6-49ac-b11f-86d01caf113c
+
 Screen recording of `osm.sumocfg` running in `sumo-gui` with the TraCI connection active: the network loads, synthetic vehicles (`synthetic.rou.xml`) are inserted, and cars move along the extracted Riyadh roads. The view is zoomed in, so vehicles appear as small yellow markers.
 
 ## Screenshots
