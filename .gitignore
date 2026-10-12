@@ -1,0 +1,21 @@
+# SUMO outputs
+tripinfos.xml
+stats.xml
+stopinfos.xml
+vehroutes.xml
+emissions.xml
+
+# TraCI logs
+traci_speed_position_log.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
