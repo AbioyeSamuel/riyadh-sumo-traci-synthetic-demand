@@ -7,7 +7,6 @@ emissions.xml
 
 # TraCI logs
 traci_speed_position_log.csv
-*.csv
 
 # Python
 __pycache__/
